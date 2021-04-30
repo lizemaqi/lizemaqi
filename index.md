@@ -33,8 +33,9 @@
 ## 2.作业2
 将三种搜索引擎集合至同一页面上，同时设置了醒目的欢迎语，对用户较为友好。
 
-[作业2]https://lizemaqi.github.io/hw3-2%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E.html
+[作业2](https://lizemaqi.github.io/hw3-2%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E.html)
 ## 3.作业3
 最近刚好看了柯南的新一部剧场版，但是观感实在过于差劲，给我留下了极其深刻的印象。尽管如此，还是选择为柯南做了一个网页。上面对柯南这一部优秀的日本动画进行了必要的介绍，同时放上了一些剧照。在页面顶部还放上了相关的ova、剧场版、bgm的链接，方便用户进一步观看柯南。
 
-[作业3]https://lizemaqi.github.io/%E6%9F%AF%E5%8D%97.html
+[作业3](https://lizemaqi.github.io/%E6%9F%AF%E5%8D%97.html)
+
