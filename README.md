@@ -27,5 +27,5 @@
 # 计算机科学与编程入门第三次作业
 ## 1.作业1
 ## 2.作业2
-[作业2]https://github.com/lizemaqi/lizemaqi.github.io/blob/main/hw3-2%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E.html
+[作业2]https://lizemaqi.github.io/blob/main/hw3-2%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E.html
 ## 3.作业3
