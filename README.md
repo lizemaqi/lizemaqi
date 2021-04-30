@@ -26,6 +26,10 @@
 [作业4]https://lizemaqi.github.io/21_gdp_cn.html
 # 计算机科学与编程入门第三次作业
 ## 1.作业1
+使用老师上课所演示的程序作主体，同时参考借鉴第二次作业中所研究出的忽视名词名单，进一步补充扩展，制作出红楼梦的人物共现关系图。
+[作业1]https://lizemaqi.github.io/%E5%85%B3%E7%B3%BB%E5%9B%BE-%E7%BA%A2%E6%A5%BC%E4%BA%BA%E7%89%A9.html
 ## 2.作业2
+将三种搜索引擎集合至同一页面上，同时设置了醒目的欢迎语，对用户较为友好。
 [作业2]https://lizemaqi.github.io/hw3-2%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E.html
 ## 3.作业3
+[作业3]
