@@ -4,7 +4,7 @@
 ## 1.作业1
 使用上次作业得到的csv文件，使用词云、柱状图、饼图等多种图表形式展示红楼梦中出现频次前5或是前10人物的相对次数关系以及绝对次数大小。
 
-[作业1-1]（https://lizemaqi.github.io/honglou_bar.html）
+[作业1-1]（https://lizemaqi.github.io/honglou_bar.html)
 
 [作业1-2]https://lizemaqi.github.io/honglou_pie.html
 
