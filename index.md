@@ -4,7 +4,7 @@
 ## 1.作业1
 使用上次作业得到的csv文件，使用词云、柱状图、饼图等多种图表形式展示红楼梦中出现频次前5或是前10人物的相对次数关系以及绝对次数大小。
 
-[作业1-1]（https://lizemaqi.github.io/honglou_bar.html)
+[作业1-1]https://lizemaqi.github.io/honglou_bar.html
 
 [作业1-2]https://lizemaqi.github.io/honglou_pie.html
 
@@ -29,7 +29,7 @@
 ## 1.作业1
 使用老师上课所演示的程序作主体，同时参考借鉴第二次作业中所研究出的忽视名词名单，进一步补充扩展，制作出红楼梦的人物共现关系图。 
 
-[作业1]https://lizemaqi.github.io/%E5%85%B3%E7%B3%BB%E5%9B%BE-%E7%BA%A2%E6%A5%BC%E4%BA%BA%E7%89%A9.html
+[作业1](https://lizemaqi.github.io/%E5%85%B3%E7%B3%BB%E5%9B%BE-%E7%BA%A2%E6%A5%BC%E4%BA%BA%E7%89%A9.html)
 ## 2.作业2
 将三种搜索引擎集合至同一页面上，同时设置了醒目的欢迎语，对用户较为友好。
 
